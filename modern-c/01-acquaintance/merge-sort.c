@@ -68,5 +68,17 @@ int main(int argc, char *argv[argc + 1]) {
   for (size_t i = 0; i < n; ++i) {
     printf("%g\n", array[i]);
   }
+
+  bool sorted = true;
+  for (size_t i = 0; i < n - 1; ++i) {
+    if (array[i] > array[i + 1]) {
+      sorted = false;
+      break;
+    }
+  }
+  if (sorted) {
+    printf("Array sorted");
+  }
+
   return EXIT_SUCCESS;
 }
