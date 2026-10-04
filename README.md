@@ -6,7 +6,7 @@ As a mathematics student, these are my first steps to break into software engine
 
 ### Main
 
-- [Modern C - Jens Gustedt](https://gustedt.gitlabpages.inria.fr/modern-c/)
+- [C Programming: A Modern Approach - King]
   - Main textbook.
   - Work through the material and exercises.
   - Use the compiler and experiments alongside it.
