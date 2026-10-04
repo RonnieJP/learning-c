@@ -46,9 +46,9 @@ The goal is not to avoid help completely. The goal is to develop the ability to 
 
 ## Topics
 
-- [ ] C syntax and basic types
-- [ ] Functions
-- [ ] Arrays and strings
+- [x] C syntax and basic types
+- [x] Functions
+- [x] Arrays and strings
 - [ ] Pointers
 - [ ] Structs
 - [ ] Memory management
